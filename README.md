@@ -5,7 +5,7 @@ My goal was to add in a voice recognition to text and have bot respond via speec
 
 Good luck!
 
---- All texts below are from https://github.com/openai --
+# All texts below are from https://github.com/openai --
 
 Example Discord bot written in Python that uses the [completions API](https://beta.openai.com/docs/api-reference/completions) to have conversations with the `text-davinci-003` model, and the [moderations API](https://beta.openai.com/docs/api-reference/moderations) to filter the messages.
 
